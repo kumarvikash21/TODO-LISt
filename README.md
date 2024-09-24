@@ -12,4 +12,4 @@ Responsive Design: Works well on both desktop and mobile devices.
 Technologies Used
 HTML: For structuring the application.
 CSS: For styling the application.
-
+JavaScript: For interactive functionality.
